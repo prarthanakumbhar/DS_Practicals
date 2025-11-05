@@ -1,6 +1,6 @@
 ## Data Structure Practicals
 
-**Name** : Prarthna Ganapati Kumbhar
+**Name** : Prarthana Ganpati Kumbhar
 **PRN** : B25CE2014
 **Class** : SY-I (3rd Sem)
 **Department** : Computer Engineering
