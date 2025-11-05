@@ -8,4 +8,5 @@
 **Academic Year** : 2025-26
 
 ## 📌 About This Repository
-This repository contains all Data Structures practical programs along with their outputs and Seprate code also with.cpp
+This repository contains all Data Structures practical program's pdfs along with their outputs.
+And contains Separate Codes Folder that contains all practicals codes with .cpp extension.
