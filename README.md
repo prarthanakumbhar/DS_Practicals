@@ -9,4 +9,4 @@
 
 ## 📌 About This Repository
 This repository contains all Data Structures practical program's pdfs along with their outputs.
-And contains Separate Codes Folder that contains all practicals codes with .cpp extension.
+And contains Separate "Codes" Folder that contains all practicals codes with .cpp extension.
