@@ -1,4 +1,4 @@
-##Data Structue Practicales
+## Data Structue Practicales
 
 **Name** : Prarthna Ganapati Kumbhar
 **PRN** : B25CE2014
